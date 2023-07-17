@@ -3,6 +3,6 @@ public class Main {
         function func = new function();
         func.turnOn();
         func.turnOff();
-        System.out.println("这是我的修改");
+        System.out.println("这是在master的修改");
     }
 }
